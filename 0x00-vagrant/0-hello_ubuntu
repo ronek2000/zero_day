@@ -1,0 +1,1 @@
+ When you run the uname command on an Ubuntu VM without any options, it typically prints the kernel name. The output will be something like:linux
